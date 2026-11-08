@@ -1,6 +1,6 @@
 # Example git workflow
 
-Within this repository we will be practing how to commit with Git.
+Within this repository we will be practicing how to commit with Git.
 
 ---
 
